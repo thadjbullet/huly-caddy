@@ -15,7 +15,7 @@ Caddy is used as a lightweight reverse proxy inside the stack. When deployed wit
 1. Log into your Coolify dashboard.
 2. Go to **Applications → New Application**.
 3. Choose **Public Git Repository**.
-4. Paste your repo URL (e.g. `[https://github.com/thadjbullet/huly-caddy](https://github.com/thadjbullet/huly-caddy)`).
+4. Paste your repo URL (e.g. `https://github.com/thadjbullet/huly-caddy`).
 5. Select branch (`main` or `master`).
 6. Set the **Deployment Type** to **Docker Compose**.
 7. Coolify will pull the repo, detect `docker-compose.yml`, and prepare the stack.
